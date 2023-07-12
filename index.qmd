@@ -1,0 +1,29 @@
+---
+title: "👋 Welcome to Car'Log[n]"
+subtitle: "Hi, this is Carles. I’m documenting my learning notes in this blog. Besides, I’m still a mathematics student at Universitas Indonesia. In addition to pure mathematics, I also love machine learning, especially deep learning and NLP."
+about:
+  id: about
+  template: solana
+  image-width: 0px
+  
+  links: 
+    - icon: github
+      url: https://github.com/carlesoctav
+    - icon: twitter
+      url: https://twitter.com/carlesoctav
+    - icon: linkedin
+      url: https://www.linkedin.com/in/carles-o-33848724b/
+    - text: " 🤗"
+      url: https://huggingface.co/carlesoctav
+
+listing:
+  id: listing
+  contents: posts
+  date-format: long
+  sort: "date desc"
+  fields: [date,title,author,reading-time,categories,description]
+  type: default
+
+page-layout: article
+---
+

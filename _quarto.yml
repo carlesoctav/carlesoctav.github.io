@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Car'Log[n]"
+  navbar:
+    right:
+      - index.qmd
+  page-footer: 
+    center: " © 2023 Car'Log[n] Powered by quarto" 
+  reader-mode: true
+  back-to-top-navigation: true
+  repo-url: https://github.com/carlesoctav/carlesoctav.github.io
+  repo-actions: [edit, issue]
+  
+  
+format:
+  html:
+    theme:
+      light: litera
+      dark: darkly
+    css: styles.css
+
+
+
+
+
