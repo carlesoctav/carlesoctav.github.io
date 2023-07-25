@@ -1,6 +1,6 @@
 ---
 title: "👋 Welcome to Car'Log[n]"
-subtitle: "Hi, this is Carles. I’m documenting my learning notes in this blog. Besides, I’m still a mathematics student at Universitas Indonesia. In addition to pure mathematics, I also love machine learning, especially deep learning and NLP."
+subtitle: "Hi, this is Carles. I’m documenting my learning notes in this blog. Besides, I’m still a mathematics student at Universitas Indonesia. In addition to pure mathematics, I also love machine learning, and computer science stuffs."
 about:
   id: about
   template: solana
