@@ -15,6 +15,10 @@ about:
       url: https://www.linkedin.com/in/carles-o-33848724b/
     - text: " 🤗"
       url: https://huggingface.co/carlesoctav
+    - text: "✉"
+      url: mailto:carlesoctavianus@tuta.io
+    - text: "📄"
+      url: https://carlesoctav.github.io/cv/resume
 
 listing:
   id: listing
