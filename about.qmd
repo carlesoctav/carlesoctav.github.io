@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+<br>
+
+::: columns
+::: {.column width="40%"}
+
+![](img\profile.png){fig-align="left" width=80%}
+:::
+
+::: {.column width="60%"}
+<div style="text-align: justify">
+I am a senior mathematics student deeply interested in developing machine learning-driven solutions. I have experience using TensorFlow and PyTorch, specializing in NLP models for information retrieval. I also have experience working with ML infrastructure in GCP. I am passionate about enhancing search experiences through natural interactions with AI-powered search engines. Currently, I am actively seeking an ML-related internship, such as an ML Engineering or Data Scientist position.
+</div>
+:::
+:::

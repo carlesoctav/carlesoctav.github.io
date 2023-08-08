@@ -7,6 +7,8 @@ website:
   navbar:
     right:
       - index.qmd
+      - text: "About Me"
+        file: about.qmd
   page-footer: 
     center: " © 2023 Car'Log[n] Powered by quarto" 
   reader-mode: true
