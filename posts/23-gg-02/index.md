@@ -1,6 +1,6 @@
 ---
 title: "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode"
-date: "2023-07-25"
+date: "2023-08-08"
 categories: [reflective-essay, generasi-gigih-3, english]
 author: "Carles Octavianus"
 toc: true
