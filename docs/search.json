@@ -7,20 +7,6 @@
     "text": "My Attempt at Blogging\nI’ve wanted to start blogging since high school, but I always struggled with coming up with content. Even in university, I found myself wanting to write but not knowing what to write about.\nNow, I’m making my nth attempt at consistent writing and have named my blog Car’Log[n] (short for “Carles’ Log index n”). My hope is to write something that can be useful to others.\nThis blog is inspired by Lilian Weng’s blog (which you can find here). While I’m not using Hago and Paper Mod like she does, I am using Quarto as my content management system. I’ve tried to make my blog as similar as possible to hers (although it won’t be 100% the same).\nI chose Quarto because I used it in my Sains-Data-2023 and PDNum-2023 laboratory classes earlier this year.\nI hope to be consistent in my writing.\nCarles Octavianus\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "👋 Welcome to Car’Log[n]",
-    "section": "",
-    "text": "Reflective Essay: Career Growth Path\n\n\n\n\n\n\nreflective-essay\n\n\ngenerasi-gigih-3\n\n\nindonesia\n\n\n\n\n\n\n\n\n\n\n\nJuly 25, 2023\n\n\nCarles Octavianus\n\n\n5 min\n\n\n\n\n\n\n\n\nMy Attempt at Blogging\n\n\n\n\n\n\nLearning\n\n\n\n\n\n\n\n\n\n\n\nJuly 12, 2023\n\n\nCarles Octavianus\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Car'Log[n]",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
     "objectID": "posts/23-gg-career-growth-path/gg-career-growth-path.html",
     "href": "posts/23-gg-career-growth-path/gg-career-growth-path.html",
     "title": "Reflective Essay: Career Growth Path",
@@ -28,11 +14,11 @@
     "text": "This is are my reflective-essay after attending career growth path class that given by kak David Paulus, the first class in soft skills & career readiness.\nsince it’s the first class, most of the topic are theory level about career growth path. we talk about Purposes, personal values, and PGP (can you guess what is it?), and also Kai zen mindset. i will talk about each of the topic in this essay, briefly of course, since i don’t want to make this essay too long to read :D. to keep this blog on track, our learning objectivity for this class are:"
   },
   {
-    "objectID": "posts/23-gg-career-growth-path/gg-career-growth-path.html#purpose-and-the-values",
-    "href": "posts/23-gg-career-growth-path/gg-career-growth-path.html#purpose-and-the-values",
+    "objectID": "posts/23-gg-career-growth-path/gg-career-growth-path.html#purpose-and-personal-values",
+    "href": "posts/23-gg-career-growth-path/gg-career-growth-path.html#purpose-and-personal-values",
     "title": "Reflective Essay: Career Growth Path",
-    "section": "purpose and the values",
-    "text": "purpose and the values\nIn the first class of soft skills and career readiness, we discussed the importance of identifying our core values and creating a Personal Growth Plan (PGP) to achieve our goals. One of the key topics we covered was the concept of purpose.\nPurpose is what defines us as individuals. It gives us meaning, happiness, and the drive to keep going. It is what we love and what we want to achieve in our lives. Without purpose, we can easily lose our way.\nWhile it’s okay not to have a clear purpose in life yet, there are some universal truths about purpose that we should keep in mind. Purpose is something that we must actively seek out. It is a universal need that drives us to do something and make an impact on those around us. Purpose is a verb, something that we work on through service to others.\nIn conclusion, finding our purpose is essential to living a fulfilling life. It is what gives us direction and motivates us to achieve our goals. By identifying our core values and creating a PGP, we can work towards discovering our purpose and living a life that is true to ourselves.\nDuring the first class of soft skills and career readiness, we learned about the importance of identifying our personal values. Personal values are the principles and moral values that we hold true and believe in. They act as fuel that makes a person able to continue to stick to their purpose.\nWhile it’s hard to define purposes directly, we can try to define what personal values we will stick to even in the lowest point of our lives. To help us define our personal values, our instructor gave us some tips:\n\nStart by selecting 10 or even 15 values.\nNarrow down your options by asking yourself these questions for each selected value:\n\nDoes this define me?\nIs this who I am at my best?\nIs this a filter I use to make hard decisions?\n\n\nBy identifying our personal values, we can stay true to ourselves and make decisions that align with our beliefs. This is essential to living a fulfilling life and achieving our goals."
+    "section": "Purpose and Personal Values",
+    "text": "Purpose and Personal Values\nIn the first class of soft skills and career readiness, we discussed the importance of identifying our core values and creating a Personal Growth Plan (PGP) to achieve our goals. One of the key topics we covered was the concept of purpose.\nPurpose is what defines us as individuals. It gives us meaning, happiness, and the drive to keep going. It is what we love and what we want to achieve in our lives. Without purpose, we can easily lose our way.\nWhile it’s okay not to have a clear purpose in life yet, there are some universal truths about purpose that we should keep in mind. Purpose is something that we must actively seek out. It is a universal need that drives us to do something and make an impact on those around us. Purpose is a verb, something that we work on through service to others.\nIn conclusion, finding our purpose is essential to living a fulfilling life. It is what gives us direction and motivates us to achieve our goals. By identifying our core values and creating a PGP, we can work towards discovering our purpose and living a life that is true to ourselves.\nDuring the first class of soft skills and career readiness, we learned about the importance of identifying our personal values. Personal values are the principles and moral values that we hold true and believe in. They act as fuel that makes a person able to continue to stick to their purpose.\nWhile it’s hard to define purposes directly, we can try to define what personal values we will stick to even in the lowest point of our lives. To help us define our personal values, our instructor gave us some tips:\n\nStart by selecting 10 or even 15 values.\nNarrow down your options by asking yourself these questions for each selected value:\n\nDoes this define me?\nIs this who I am at my best?\nIs this a filter I use to make hard decisions?\n\n\nBy identifying our personal values, we can stay true to ourselves and make decisions that align with our beliefs. This is essential to living a fulfilling life and achieving our goals."
   },
   {
     "objectID": "posts/23-gg-career-growth-path/gg-career-growth-path.html#rethinking-what-a-career-path-looks-like",
@@ -63,10 +49,66 @@
     "text": "Closing\nThat’s all for my reflective essay on the first class of soft skills and career readiness. It was a bit theoretical, as it was our first class on career readiness. See you in the next reflective essay, as I think it will be another assignment on this topic…"
   },
   {
-    "objectID": "posts/23-gg-career-growth-path/gg-career-growth-path.html#purpose-and-personal-values",
-    "href": "posts/23-gg-career-growth-path/gg-career-growth-path.html#purpose-and-personal-values",
-    "title": "Reflective Essay: Career Growth Path",
-    "section": "Purpose and Personal Values",
-    "text": "Purpose and Personal Values\nIn the first class of soft skills and career readiness, we discussed the importance of identifying our core values and creating a Personal Growth Plan (PGP) to achieve our goals. One of the key topics we covered was the concept of purpose.\nPurpose is what defines us as individuals. It gives us meaning, happiness, and the drive to keep going. It is what we love and what we want to achieve in our lives. Without purpose, we can easily lose our way.\nWhile it’s okay not to have a clear purpose in life yet, there are some universal truths about purpose that we should keep in mind. Purpose is something that we must actively seek out. It is a universal need that drives us to do something and make an impact on those around us. Purpose is a verb, something that we work on through service to others.\nIn conclusion, finding our purpose is essential to living a fulfilling life. It is what gives us direction and motivates us to achieve our goals. By identifying our core values and creating a PGP, we can work towards discovering our purpose and living a life that is true to ourselves.\nDuring the first class of soft skills and career readiness, we learned about the importance of identifying our personal values. Personal values are the principles and moral values that we hold true and believe in. They act as fuel that makes a person able to continue to stick to their purpose.\nWhile it’s hard to define purposes directly, we can try to define what personal values we will stick to even in the lowest point of our lives. To help us define our personal values, our instructor gave us some tips:\n\nStart by selecting 10 or even 15 values.\nNarrow down your options by asking yourself these questions for each selected value:\n\nDoes this define me?\nIs this who I am at my best?\nIs this a filter I use to make hard decisions?\n\n\nBy identifying our personal values, we can stay true to ourselves and make decisions that align with our beliefs. This is essential to living a fulfilling life and achieving our goals."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Car'Log[n]",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "👋 Welcome to Car’Log[n]",
+    "section": "",
+    "text": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode\n\n\n\n\n\n\nreflective-essay\n\n\ngenerasi-gigih-3\n\n\nenglish\n\n\n\n\n\n\n\n\n\n\n\nJuly 25, 2023\n\n\nCarles Octavianus\n\n\n2 min\n\n\n\n\n\n\n\n\nReflective Essay: Career Growth Path\n\n\n\n\n\n\nreflective-essay\n\n\ngenerasi-gigih-3\n\n\nindonesia\n\n\n\n\n\n\n\n\n\n\n\nJuly 25, 2023\n\n\nCarles Octavianus\n\n\n5 min\n\n\n\n\n\n\n\n\nMy Attempt at Blogging\n\n\n\n\n\n\nLearning\n\n\n\n\n\n\n\n\n\n\n\nJuly 12, 2023\n\n\nCarles Octavianus\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html",
+    "href": "posts/23-gg-02/index.html",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "Hello everyone! In this reflective essay, I’d like to share my experience attending the “Build An Impactful CV” class given by Kak David Paulus. This was the second class in soft skills and career readiness, and I hope you enjoy reading about my key takeaways.\n\n\nFirst and foremost, we need to change our mindset about CVs and personal branding in general. We should treat our CV as our professional brand. We should put ourselves in the shoes of recruiters and remember that hiring is about selling ourselves. This is the first thing we need to do before jumping into creating a CV.\n\n\n\nWhile it may be difficult to decide on your brand statement, you can use the following as a guide to help you get started:\n\nWhat is the “one thing” that everyone says you are amazing at?\nWhat gets you excited?\nWhat have you accomplished?\nIt can also be volunteering, freelancing, or internship experience that highlights YOU and makes you STAND OUT. You can also ask people or colleagues that you know to help describe you, and then you can use it as a reference to create your brand statement.\n\n\n\n\nAchievements don’t necessarily have to be something big. They can be something small, but it’s something that you have successfully accomplished through effort, courage, or skill. They display your skills, character, and leadership abilities. You can display achievements with the AQS (Action verb, Quantifiable evidence, & what Specific task) framework.\n\n\n\nImproving writing is also improving your CV, since it’s a document that you need to write. So, here are some tips to improve your writing: use an action verb, use adverbs to describe your action more.\n\n\n\nfor school leavers, students, and graduates with minimal work experience, it suggests having a section for professional work experience and volunteering experience on the CV. It also recommends finding transferable skills from previous experiences that align with the role being applied for.\n\n\n\nYour CV is a marketing document that should include your personal details, LinkedIn link, education, work experience, and interests. It highlights your key achievements and shows your value, and should always be tailored to the role you are applying for."
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html#right-mindset-to-build-an-impactful-cv",
+    "href": "posts/23-gg-02/index.html#right-mindset-to-build-an-impactful-cv",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "First and foremost, we need to change our mindset about CVs and personal branding in general. We should treat our CV as our professional brand. We should put ourselves in the shoes of recruiters and remember that hiring is about selling ourselves. This is the first thing we need to do before jumping into creating a CV."
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html#brand-statement",
+    "href": "posts/23-gg-02/index.html#brand-statement",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "While it may be difficult to decide on your brand statement, you can use the following as a guide to help you get started:\n\nWhat is the “one thing” that everyone says you are amazing at?\nWhat gets you excited?\nWhat have you accomplished?\nIt can also be volunteering, freelancing, or internship experience that highlights YOU and makes you STAND OUT. You can also ask people or colleagues that you know to help describe you, and then you can use it as a reference to create your brand statement."
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html#achievement",
+    "href": "posts/23-gg-02/index.html#achievement",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "Achievements don’t necessarily have to be something big. They can be something small, but it’s something that you have successfully accomplished through effort, courage, or skill. They display your skills, character, and leadership abilities. You can display achievements with the AQS (Action verb, Quantifiable evidence, & what Specific task) framework."
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html#a-bit-of-writing",
+    "href": "posts/23-gg-02/index.html#a-bit-of-writing",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "Improving writing is also improving your CV, since it’s a document that you need to write. So, here are some tips to improve your writing: use an action verb, use adverbs to describe your action more."
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html#other-tips",
+    "href": "posts/23-gg-02/index.html#other-tips",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "for school leavers, students, and graduates with minimal work experience, it suggests having a section for professional work experience and volunteering experience on the CV. It also recommends finding transferable skills from previous experiences that align with the role being applied for."
+  },
+  {
+    "objectID": "posts/23-gg-02/index.html#conclusion",
+    "href": "posts/23-gg-02/index.html#conclusion",
+    "title": "YARE (Yet Another Reflective Essay): Build An Impactful CV Episode",
+    "section": "",
+    "text": "Your CV is a marketing document that should include your personal details, LinkedIn link, education, work experience, and interests. It highlights your key achievements and shows your value, and should always be tailored to the role you are applying for."
   }
 ]

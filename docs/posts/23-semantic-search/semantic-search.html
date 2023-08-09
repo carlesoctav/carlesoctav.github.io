@@ -64,6 +64,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -111,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#semantic-search-vector-search-with-transformers-is-this-the-future-of-search" id="toc-semantic-search-vector-search-with-transformers-is-this-the-future-of-search" class="nav-link active" data-scroll-target="#semantic-search-vector-search-with-transformers-is-this-the-future-of-search">Semantic Search / Vector Search with Transformers, is this the future of search?</a>
+  <li><a href="#semantic-search-vector-search-dengan-transformers-a-future-of-search-engine" id="toc-semantic-search-vector-search-dengan-transformers-a-future-of-search-engine" class="nav-link active" data-scroll-target="#semantic-search-vector-search-dengan-transformers-a-future-of-search-engine">Semantic Search / Vector Search Dengan Transformers, a future of search engine?</a>
   <ul class="collapse">
   <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#preview-what-we-have-achive." id="toc-preview-what-we-have-achive." class="nav-link" data-scroll-target="#preview-what-we-have-achive.">preview what we have achive.</a></li>
@@ -163,21 +165,27 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="semantic-search-vector-search-with-transformers-is-this-the-future-of-search" class="level1">
-<h1>Semantic Search / Vector Search with Transformers, is this the future of search?</h1>
+<section id="semantic-search-vector-search-dengan-transformers-a-future-of-search-engine" class="level1">
+<h1>Semantic Search / Vector Search Dengan Transformers, a future of search engine?</h1>
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>when participating bangkit 2023, my friend and I got a chance to do company proposed capstone project (it’s a project that proposed by some tech company in indonesia). we got dicoding indonesia cases, to improve discussion forum.</p>
 <p>after a glimpse look on dicoding discussion forum, what’s i feel lack in that forum are the search bar, and a proper aiding to tagging their discussion (there’s just a user-based tagged, no rules). koko for the search engine, you need a proper match of an word /sentence for the search to able find a relevant document, not even a fuzzy search. also it’s only search on title not on the body (discussion). i would say, it was a nightmare to search as if, it’s more possible to get answer with just adding new discussion (since there’s a assistant that probably will answer your question ) even tho it’s a duplicate.</p>
 <p>so, for the past month (may to june) we have been researching on how we can improve search using machine learning (since it’s a must as it’s bangkit 2023 progam (machine learning path)) and also how to create an auto-tagger to aiding new user to properly tagging their newly disucssion.</p>
-<p>i do work on search thingy while other do work on auto-tagger. for those who want to see all the research and finally what we have to decided to use, you guys can take a look github <a href="https://github.com/orgs/C23-DF01-Dicoding-Indonesia/repositories">C23-DF01-Dicoding-Indonesia</a> (it’s not well documented so you will need to explore yourself)</p>
+<p>I and some of my friend do work on search thingy while other do work on auto-tagger. for those who want to see all the research and finally what we have to decided to use, you guys can take a look github <a href="https://github.com/orgs/C23-DF01-Dicoding-Indonesia/repositories">C23-DF01-Dicoding-Indonesia</a> (it’s not well documented so you will need to explore yourself). also, the model are aviailable on <a href="https://huggingface.co/carlesoctav/indo-sentence-bert-KD">huggingface</a> which you can easily use it.</p>
 </section>
 <section id="preview-what-we-have-achive." class="level2">
 <h2 class="anchored" data-anchor-id="preview-what-we-have-achive.">preview what we have achive.</h2>
-<p>with the latest</p>
+<p>here’s some example of model capability, to find a relevant document :D.</p>
+<p>you guys can try it yourself on this notebook,</p>
 </section>
 <section id="text-ranking-problem" class="level2">
 <h2 class="anchored" data-anchor-id="text-ranking-problem">Text ranking problem</h2>
+<p>let’s define the problem more formally or mathematically.</p>
+<blockquote class="blockquote">
+<p>Given an information need expressed as a query <span class="math inline">\(q\)</span>, the text ranking task is to return a ranked list of <span class="math inline">\(k\)</span> texts <span class="math inline">\(\left\{d_1, d_2 \ldots d_k\right\}\)</span> from an arbitrarily large but finite collection of texts <span class="math inline">\(\mathcal{C}=\left\{d_i\right\}\)</span> that maximizes a metric of interest, for example, nDCG, AP, etc.</p>
+</blockquote>
+<p>so it’s just a matter of re-ranking a list of document based on a query, that satisfy some metric.</p>
 </section>
 <section id="before-machine-learning-era" class="level2">
 <h2 class="anchored" data-anchor-id="before-machine-learning-era">Before machine learning era</h2>
@@ -187,6 +195,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="deep-learning-era-the-two-approaches" class="level2">
 <h2 class="anchored" data-anchor-id="deep-learning-era-the-two-approaches">Deep learning era, the two approaches</h2>
+<p>as a Deep learning more and more feasible and popular to use to solve a machine learning problem, also someone has been using it to solve text ranking problem. in general, deep learning approach more end to end approach, without hand-crafted feature. so, it’s more flexible and can be applied to any language.</p>
 </section>
 <section id="representation-based-a-bit-unrealibale-but-its-fast" class="level2">
 <h2 class="anchored" data-anchor-id="representation-based-a-bit-unrealibale-but-its-fast">Representation-based, a bit unrealibale but it’s fast</h2>
